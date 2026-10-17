@@ -53,7 +53,7 @@ flowchart LR
     A["🧬 Fase 1<br/>Anatomía de un dataset"] --> B["🧮 Fase 2<br/>Escalado con NumPy"]
     B --> C["🐧 Fase 3<br/>Palmer Penguins"]
     C --> D["⚙️ Fase 4<br/>sklearn y train/test"]
-    D --> E["📝 Cierre<br/>Conclusiones y APA 7"]
+    D --> E["📝 Cierre<br/>Conclusiones"]
 ```
 
 ---
