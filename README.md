@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Práctica N.º 2 · Preprocesamiento de Datos
+# 🐍 Práctica N.º 2 · Preprocesamiento de Datos
 
 ### Anatomía de un dataset y escalado: Min-Max, Z-Score y Robust Scaler
 
@@ -28,7 +28,7 @@
 | 📚 **Carrera** | Ciencias de la Computación |
 | 🤖 **Asignatura** | Inteligencia Artificial · 6.º nivel |
 | 👨‍🏫 **Docente** | Ing. Rodrigo Tufiño |
-| 📅 **Fecha** | 16 Octubre de 2026 |
+| 📅 **Fecha** | 17 Octubre de 2026 |
 
 ---
 
